@@ -953,4 +953,8 @@ html = f"""<!DOCTYPE html>
 
 OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 OUT_PATH.write_text(html, encoding="utf-8")
-print(f"Interactive report saved -> {OUT_PATH}")
+print(f"Interactive report saved -> {OUT_PATH}") 
+
+import webbrowser
+webbrowser.open(OUT_PATH.resolve().as_uri())
+print("Browser mein khul gaya!")
