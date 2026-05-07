@@ -1,0 +1,946 @@
+subject_id,PHQ9_total,GAD7_total,PSQI_total,PSS_total,disorder,IQ
+S000,10,7,,,Addictive disorder,
+S001,10,7,,,Addictive disorder,120.0
+S002,10,7,,,Addictive disorder,113.0
+S003,10,7,,,Addictive disorder,126.0
+S004,10,7,,,Addictive disorder,112.0
+S005,10,7,,,Addictive disorder,105.0
+S006,10,7,,,Addictive disorder,103.0
+S007,10,7,,,Addictive disorder,104.0
+S008,10,7,,,Addictive disorder,89.0
+S009,10,7,,,Addictive disorder,98.0
+S010,10,7,,,Addictive disorder,91.0
+S011,10,7,,,Addictive disorder,93.0
+S012,10,7,,,Addictive disorder,105.0
+S013,10,7,,,Addictive disorder,118.0
+S014,10,7,,,Addictive disorder,116.0
+S015,10,7,,,Addictive disorder,93.0
+S016,10,7,,,Addictive disorder,107.0
+S017,10,7,,,Addictive disorder,86.0
+S018,10,7,,,Addictive disorder,102.0
+S019,10,7,,,Addictive disorder,120.0
+S020,10,7,,,Addictive disorder,128.0
+S021,10,7,,,Addictive disorder,116.0
+S022,10,7,,,Addictive disorder,102.0
+S023,10,7,,,Addictive disorder,104.0
+S024,10,7,,,Addictive disorder,122.0
+S025,10,7,,,Addictive disorder,130.0
+S026,10,7,,,Addictive disorder,122.0
+S027,10,7,,,Addictive disorder,108.0
+S028,10,7,,,Addictive disorder,117.0
+S029,10,7,,,Addictive disorder,122.0
+S030,10,7,,,Addictive disorder,94.0
+S031,16,14,,,Trauma and stress related disorder,103.0
+S032,16,14,,,Trauma and stress related disorder,81.0
+S033,16,14,,,Trauma and stress related disorder,
+S034,16,14,,,Trauma and stress related disorder,108.0
+S035,16,14,,,Trauma and stress related disorder,110.0
+S036,16,14,,,Trauma and stress related disorder,112.0
+S037,16,14,,,Trauma and stress related disorder,102.0
+S038,16,14,,,Trauma and stress related disorder,
+S039,16,14,,,Trauma and stress related disorder,114.0
+S040,16,14,,,Trauma and stress related disorder,105.0
+S041,16,14,,,Trauma and stress related disorder,123.0
+S042,16,14,,,Trauma and stress related disorder,
+S043,16,14,,,Trauma and stress related disorder,
+S044,16,14,,,Trauma and stress related disorder,93.0
+S045,16,14,,,Trauma and stress related disorder,81.0
+S046,16,14,,,Trauma and stress related disorder,91.0
+S047,16,14,,,Trauma and stress related disorder,76.0
+S048,16,14,,,Trauma and stress related disorder,103.0
+S049,16,14,,,Trauma and stress related disorder,117.0
+S050,16,14,,,Trauma and stress related disorder,129.0
+S051,16,14,,,Trauma and stress related disorder,122.0
+S052,16,14,,,Trauma and stress related disorder,93.0
+S053,16,14,,,Trauma and stress related disorder,134.0
+S054,16,14,,,Trauma and stress related disorder,81.0
+S055,16,14,,,Trauma and stress related disorder,114.0
+S056,16,14,,,Trauma and stress related disorder,82.0
+S057,16,14,,,Trauma and stress related disorder,94.0
+S058,16,14,,,Trauma and stress related disorder,91.0
+S059,16,14,,,Trauma and stress related disorder,114.0
+S060,10,7,,,Addictive disorder,
+S061,10,7,,,Addictive disorder,109.0
+S062,10,7,,,Addictive disorder,97.0
+S063,10,7,,,Addictive disorder,105.0
+S064,10,7,,,Addictive disorder,101.0
+S065,10,7,,,Addictive disorder,93.0
+S066,10,7,,,Addictive disorder,99.0
+S067,10,7,,,Addictive disorder,107.0
+S068,10,7,,,Addictive disorder,96.0
+S069,10,7,,,Addictive disorder,76.0
+S070,10,7,,,Addictive disorder,103.0
+S071,10,7,,,Addictive disorder,107.0
+S072,10,7,,,Addictive disorder,104.0
+S073,10,7,,,Addictive disorder,110.0
+S074,10,7,,,Addictive disorder,84.0
+S075,10,7,,,Addictive disorder,99.0
+S076,10,7,,,Addictive disorder,118.0
+S077,10,7,,,Addictive disorder,82.0
+S078,10,7,,,Addictive disorder,108.0
+S079,10,7,,,Addictive disorder,90.0
+S080,10,7,,,Addictive disorder,117.0
+S081,10,7,,,Addictive disorder,96.0
+S082,10,7,,,Addictive disorder,90.0
+S083,10,7,,,Addictive disorder,91.0
+S084,10,7,,,Addictive disorder,91.0
+S085,10,7,,,Addictive disorder,124.0
+S086,10,7,,,Addictive disorder,118.0
+S087,10,7,,,Addictive disorder,83.0
+S088,10,7,,,Addictive disorder,105.0
+S089,20,12,,,Mood disorder,108.0
+S090,20,12,,,Mood disorder,127.0
+S091,20,12,,,Mood disorder,113.0
+S092,20,12,,,Mood disorder,
+S093,20,12,,,Mood disorder,
+S094,20,12,,,Mood disorder,105.0
+S095,20,12,,,Mood disorder,122.0
+S096,20,12,,,Mood disorder,106.0
+S097,20,12,,,Mood disorder,114.0
+S098,20,12,,,Mood disorder,122.0
+S099,20,12,,,Mood disorder,107.0
+S100,20,12,,,Mood disorder,124.0
+S101,20,12,,,Mood disorder,121.0
+S102,20,12,,,Mood disorder,116.0
+S103,20,12,,,Mood disorder,107.0
+S104,20,12,,,Mood disorder,85.0
+S105,20,12,,,Mood disorder,119.0
+S106,20,12,,,Mood disorder,93.0
+S107,20,12,,,Mood disorder,121.0
+S108,20,12,,,Mood disorder,83.0
+S109,20,12,,,Mood disorder,88.0
+S110,20,12,,,Mood disorder,84.0
+S111,20,12,,,Mood disorder,78.0
+S112,20,12,,,Mood disorder,88.0
+S113,2,2,,,Healthy control,119.0
+S114,2,2,,,Healthy control,110.0
+S115,2,2,,,Healthy control,122.0
+S116,2,2,,,Healthy control,118.0
+S117,2,2,,,Healthy control,108.0
+S118,2,2,,,Healthy control,110.0
+S119,2,2,,,Healthy control,105.0
+S120,2,2,,,Healthy control,109.0
+S121,2,2,,,Healthy control,130.0
+S122,2,2,,,Healthy control,122.0
+S123,2,2,,,Healthy control,118.0
+S124,2,2,,,Healthy control,101.0
+S125,2,2,,,Healthy control,113.0
+S126,2,2,,,Healthy control,105.0
+S127,2,2,,,Healthy control,109.0
+S128,2,2,,,Healthy control,116.0
+S129,2,2,,,Healthy control,121.0
+S130,2,2,,,Healthy control,113.0
+S131,2,2,,,Healthy control,122.0
+S132,2,2,,,Healthy control,102.0
+S133,2,2,,,Healthy control,114.0
+S134,2,2,,,Healthy control,127.0
+S135,2,2,,,Healthy control,96.0
+S136,2,2,,,Healthy control,107.0
+S137,2,2,,,Healthy control,114.0
+S138,10,7,,,Addictive disorder,124.0
+S139,10,7,,,Addictive disorder,98.0
+S140,10,7,,,Addictive disorder,103.0
+S141,10,7,,,Addictive disorder,120.0
+S142,10,7,,,Addictive disorder,99.0
+S143,10,7,,,Addictive disorder,103.0
+S144,10,7,,,Addictive disorder,123.0
+S145,10,7,,,Addictive disorder,120.0
+S146,10,7,,,Addictive disorder,129.0
+S147,10,7,,,Addictive disorder,118.0
+S148,10,7,,,Addictive disorder,101.0
+S149,10,7,,,Addictive disorder,116.0
+S150,10,7,,,Addictive disorder,107.0
+S151,10,7,,,Addictive disorder,105.0
+S152,10,7,,,Addictive disorder,105.0
+S153,10,7,,,Addictive disorder,73.0
+S154,10,7,,,Addictive disorder,142.0
+S155,10,7,,,Addictive disorder,103.0
+S156,10,7,,,Addictive disorder,103.0
+S157,10,7,,,Addictive disorder,78.0
+S158,10,7,,,Addictive disorder,135.0
+S159,10,7,,,Addictive disorder,103.0
+S160,10,7,,,Addictive disorder,105.0
+S161,10,7,,,Addictive disorder,129.0
+S162,10,7,,,Addictive disorder,96.0
+S163,10,7,,,Addictive disorder,134.0
+S164,10,7,,,Addictive disorder,122.0
+S165,10,7,,,Addictive disorder,115.0
+S166,10,7,,,Addictive disorder,122.0
+S167,10,7,,,Addictive disorder,119.0
+S168,10,7,,,Addictive disorder,124.0
+S169,10,7,,,Addictive disorder,123.0
+S170,10,7,,,Addictive disorder,133.0
+S171,2,2,,,Healthy control,119.0
+S172,2,2,,,Healthy control,97.0
+S173,2,2,,,Healthy control,113.0
+S174,2,2,,,Healthy control,116.0
+S175,2,2,,,Healthy control,124.0
+S176,2,2,,,Healthy control,105.0
+S177,2,2,,,Healthy control,99.0
+S178,2,2,,,Healthy control,109.0
+S179,2,2,,,Healthy control,96.0
+S180,2,2,,,Healthy control,121.0
+S181,2,2,,,Healthy control,118.0
+S182,2,2,,,Healthy control,129.0
+S183,2,2,,,Healthy control,118.0
+S184,2,2,,,Healthy control,130.0
+S185,2,2,,,Healthy control,131.0
+S186,2,2,,,Healthy control,139.0
+S187,2,2,,,Healthy control,130.0
+S188,2,2,,,Healthy control,119.0
+S189,2,2,,,Healthy control,116.0
+S190,2,2,,,Healthy control,115.0
+S191,2,2,,,Healthy control,113.0
+S192,2,2,,,Healthy control,120.0
+S193,2,2,,,Healthy control,112.0
+S194,2,2,,,Healthy control,125.0
+S195,2,2,,,Healthy control,134.0
+S196,2,2,,,Healthy control,110.0
+S197,2,2,,,Healthy control,103.0
+S198,2,2,,,Healthy control,109.0
+S199,2,2,,,Healthy control,99.0
+S200,2,2,,,Healthy control,130.0
+S201,2,2,,,Healthy control,106.0
+S202,2,2,,,Healthy control,102.0
+S203,2,2,,,Healthy control,133.0
+S204,2,2,,,Healthy control,129.0
+S205,2,2,,,Healthy control,123.0
+S206,2,2,,,Healthy control,122.0
+S207,2,2,,,Healthy control,105.0
+S208,2,2,,,Healthy control,102.0
+S209,2,2,,,Healthy control,130.0
+S210,2,2,,,Healthy control,119.0
+S211,2,2,,,Healthy control,98.0
+S212,2,2,,,Healthy control,88.0
+S213,2,2,,,Healthy control,102.0
+S214,10,7,,,Addictive disorder,122.0
+S215,10,7,,,Addictive disorder,107.0
+S216,10,7,,,Addictive disorder,89.0
+S217,10,7,,,Addictive disorder,79.0
+S218,10,7,,,Addictive disorder,90.0
+S219,10,7,,,Addictive disorder,74.0
+S220,10,7,,,Addictive disorder,99.0
+S221,10,7,,,Addictive disorder,126.0
+S222,10,7,,,Addictive disorder,96.0
+S223,10,7,,,Addictive disorder,
+S224,10,7,,,Addictive disorder,96.0
+S225,10,7,,,Addictive disorder,
+S226,10,7,,,Addictive disorder,65.0
+S227,10,7,,,Addictive disorder,111.0
+S228,10,7,,,Addictive disorder,73.0
+S229,10,7,,,Addictive disorder,94.0
+S230,10,7,,,Addictive disorder,108.0
+S231,10,7,,,Addictive disorder,94.0
+S232,10,7,,,Addictive disorder,59.0
+S233,10,7,,,Addictive disorder,80.0
+S234,10,7,,,Addictive disorder,
+S235,10,7,,,Addictive disorder,107.0
+S236,10,7,,,Addictive disorder,124.0
+S237,10,7,,,Addictive disorder,78.0
+S238,10,7,,,Addictive disorder,96.0
+S239,10,7,,,Addictive disorder,122.0
+S240,10,7,,,Addictive disorder,107.0
+S241,10,7,,,Addictive disorder,101.0
+S242,10,7,,,Addictive disorder,104.0
+S243,10,7,,,Addictive disorder,102.0
+S244,10,7,,,Addictive disorder,114.0
+S245,10,7,,,Addictive disorder,101.0
+S246,10,7,,,Addictive disorder,110.0
+S247,10,7,,,Addictive disorder,93.0
+S248,10,7,,,Addictive disorder,102.0
+S249,10,7,,,Addictive disorder,101.0
+S250,10,7,,,Addictive disorder,74.0
+S251,10,7,,,Addictive disorder,82.0
+S252,10,7,,,Addictive disorder,115.0
+S253,10,7,,,Addictive disorder,114.0
+S254,10,7,,,Addictive disorder,94.0
+S255,10,7,,,Addictive disorder,100.0
+S256,10,7,,,Addictive disorder,89.0
+S257,10,7,,,Addictive disorder,102.0
+S258,10,7,,,Addictive disorder,56.0
+S259,10,7,,,Addictive disorder,85.0
+S260,10,7,,,Addictive disorder,96.0
+S261,10,7,,,Addictive disorder,77.0
+S262,10,7,,,Addictive disorder,127.0
+S263,14,15,,,Obsessive compulsive disorder,113.0
+S264,14,15,,,Obsessive compulsive disorder,113.0
+S265,14,15,,,Obsessive compulsive disorder,109.0
+S266,14,15,,,Obsessive compulsive disorder,111.0
+S267,14,15,,,Obsessive compulsive disorder,104.0
+S268,14,15,,,Obsessive compulsive disorder,120.0
+S269,14,15,,,Obsessive compulsive disorder,85.0
+S270,14,15,,,Obsessive compulsive disorder,120.0
+S271,14,15,,,Obsessive compulsive disorder,126.0
+S272,14,15,,,Obsessive compulsive disorder,95.0
+S273,14,15,,,Obsessive compulsive disorder,131.0
+S274,14,15,,,Obsessive compulsive disorder,133.0
+S275,14,15,,,Obsessive compulsive disorder,80.0
+S276,14,15,,,Obsessive compulsive disorder,108.0
+S277,14,15,,,Obsessive compulsive disorder,138.0
+S278,14,15,,,Obsessive compulsive disorder,
+S279,14,15,,,Obsessive compulsive disorder,
+S280,14,15,,,Obsessive compulsive disorder,110.0
+S281,14,15,,,Obsessive compulsive disorder,107.0
+S282,20,12,,,Mood disorder,99.0
+S283,15,8,,,Schizophrenia,102.0
+S284,18,18,,,Anxiety disorder,89.0
+S285,20,12,,,Mood disorder,71.0
+S286,20,12,,,Mood disorder,87.0
+S287,20,12,,,Mood disorder,136.0
+S288,18,18,,,Anxiety disorder,122.0
+S289,18,18,,,Anxiety disorder,99.0
+S290,15,8,,,Schizophrenia,95.0
+S291,15,8,,,Schizophrenia,114.0
+S292,15,8,,,Schizophrenia,94.0
+S293,20,12,,,Mood disorder,122.0
+S294,18,18,,,Anxiety disorder,123.0
+S295,10,7,,,Addictive disorder,129.0
+S296,18,18,,,Anxiety disorder,104.0
+S297,16,14,,,Trauma and stress related disorder,99.0
+S298,15,8,,,Schizophrenia,97.0
+S299,20,12,,,Mood disorder,80.0
+S300,10,7,,,Addictive disorder,88.0
+S301,10,7,,,Addictive disorder,107.0
+S302,16,14,,,Trauma and stress related disorder,105.0
+S303,15,8,,,Schizophrenia,75.0
+S304,15,8,,,Schizophrenia,111.0
+S305,16,14,,,Trauma and stress related disorder,85.0
+S306,20,12,,,Mood disorder,116.0
+S307,20,12,,,Mood disorder,114.0
+S308,20,12,,,Mood disorder,98.0
+S309,16,14,,,Trauma and stress related disorder,120.0
+S310,16,14,,,Trauma and stress related disorder,116.0
+S311,14,15,,,Obsessive compulsive disorder,112.0
+S312,20,12,,,Mood disorder,110.0
+S313,14,15,,,Obsessive compulsive disorder,90.0
+S314,20,12,,,Mood disorder,123.0
+S315,16,14,,,Trauma and stress related disorder,137.0
+S316,18,18,,,Anxiety disorder,75.0
+S317,20,12,,,Mood disorder,89.0
+S318,16,14,,,Trauma and stress related disorder,89.0
+S319,18,18,,,Anxiety disorder,113.0
+S320,16,14,,,Trauma and stress related disorder,101.0
+S321,20,12,,,Mood disorder,119.0
+S322,20,12,,,Mood disorder,124.0
+S323,15,8,,,Schizophrenia,85.0
+S324,20,12,,,Mood disorder,92.0
+S325,20,12,,,Mood disorder,97.0
+S326,20,12,,,Mood disorder,94.0
+S327,18,18,,,Anxiety disorder,105.0
+S328,20,12,,,Mood disorder,78.0
+S329,20,12,,,Mood disorder,97.0
+S330,15,8,,,Schizophrenia,93.0
+S331,15,8,,,Schizophrenia,105.0
+S332,20,12,,,Mood disorder,94.0
+S333,15,8,,,Schizophrenia,114.0
+S334,18,18,,,Anxiety disorder,103.0
+S335,18,18,,,Anxiety disorder,77.0
+S336,20,12,,,Mood disorder,145.0
+S337,16,14,,,Trauma and stress related disorder,120.0
+S338,15,8,,,Schizophrenia,100.0
+S339,20,12,,,Mood disorder,91.0
+S340,18,18,,,Anxiety disorder,75.0
+S341,20,12,,,Mood disorder,120.0
+S342,16,14,,,Trauma and stress related disorder,94.0
+S343,20,12,,,Mood disorder,93.0
+S344,18,18,,,Anxiety disorder,102.0
+S345,20,12,,,Mood disorder,92.0
+S346,20,12,,,Mood disorder,101.0
+S347,20,12,,,Mood disorder,99.0
+S348,10,7,,,Addictive disorder,96.0
+S349,10,7,,,Addictive disorder,109.0
+S350,20,12,,,Mood disorder,116.0
+S351,20,12,,,Mood disorder,75.0
+S352,16,14,,,Trauma and stress related disorder,113.0
+S353,20,12,,,Mood disorder,94.0
+S354,20,12,,,Mood disorder,116.0
+S355,16,14,,,Trauma and stress related disorder,91.0
+S356,15,8,,,Schizophrenia,93.0
+S357,15,8,,,Schizophrenia,97.0
+S358,20,12,,,Mood disorder,125.0
+S359,20,12,,,Mood disorder,102.0
+S360,20,12,,,Mood disorder,111.0
+S361,20,12,,,Mood disorder,105.0
+S362,16,14,,,Trauma and stress related disorder,115.0
+S363,15,8,,,Schizophrenia,99.0
+S364,20,12,,,Mood disorder,130.0
+S365,10,7,,,Addictive disorder,125.0
+S366,20,12,,,Mood disorder,97.0
+S367,20,12,,,Mood disorder,136.0
+S368,20,12,,,Mood disorder,99.0
+S369,20,12,,,Mood disorder,93.0
+S370,20,12,,,Mood disorder,99.0
+S371,20,12,,,Mood disorder,103.0
+S372,15,8,,,Schizophrenia,89.0
+S373,18,18,,,Anxiety disorder,101.0
+S374,18,18,,,Anxiety disorder,121.0
+S375,15,8,,,Schizophrenia,75.0
+S376,14,15,,,Obsessive compulsive disorder,110.0
+S377,15,8,,,Schizophrenia,106.0
+S378,16,14,,,Trauma and stress related disorder,105.0
+S379,20,12,,,Mood disorder,82.0
+S380,15,8,,,Schizophrenia,114.0
+S381,20,12,,,Mood disorder,119.0
+S382,20,12,,,Mood disorder,124.0
+S383,20,12,,,Mood disorder,102.0
+S384,20,12,,,Mood disorder,97.0
+S385,20,12,,,Mood disorder,91.0
+S386,10,7,,,Addictive disorder,99.0
+S387,18,18,,,Anxiety disorder,94.0
+S388,14,15,,,Obsessive compulsive disorder,76.0
+S389,20,12,,,Mood disorder,101.0
+S390,10,7,,,Addictive disorder,114.0
+S391,15,8,,,Schizophrenia,93.0
+S392,14,15,,,Obsessive compulsive disorder,112.0
+S393,16,14,,,Trauma and stress related disorder,95.0
+S394,20,12,,,Mood disorder,109.0
+S395,20,12,,,Mood disorder,101.0
+S396,18,18,,,Anxiety disorder,102.0
+S397,20,12,,,Mood disorder,90.0
+S398,16,14,,,Trauma and stress related disorder,103.0
+S399,20,12,,,Mood disorder,117.0
+S400,16,14,,,Trauma and stress related disorder,121.0
+S401,20,12,,,Mood disorder,111.0
+S402,18,18,,,Anxiety disorder,113.0
+S403,15,8,,,Schizophrenia,90.0
+S404,20,12,,,Mood disorder,125.0
+S405,10,7,,,Addictive disorder,123.0
+S406,20,12,,,Mood disorder,100.0
+S407,20,12,,,Mood disorder,98.0
+S408,15,8,,,Schizophrenia,113.0
+S409,15,8,,,Schizophrenia,117.0
+S410,20,12,,,Mood disorder,108.0
+S411,16,14,,,Trauma and stress related disorder,99.0
+S412,16,14,,,Trauma and stress related disorder,91.0
+S413,20,12,,,Mood disorder,77.0
+S414,20,12,,,Mood disorder,100.0
+S415,18,18,,,Anxiety disorder,108.0
+S416,16,14,,,Trauma and stress related disorder,80.0
+S417,16,14,,,Trauma and stress related disorder,101.0
+S418,15,8,,,Schizophrenia,74.0
+S419,20,12,,,Mood disorder,118.0
+S420,20,12,,,Mood disorder,112.0
+S421,18,18,,,Anxiety disorder,110.0
+S422,14,15,,,Obsessive compulsive disorder,110.0
+S423,20,12,,,Mood disorder,102.0
+S424,20,12,,,Mood disorder,117.0
+S425,20,12,,,Mood disorder,122.0
+S426,20,12,,,Mood disorder,112.0
+S427,15,8,,,Schizophrenia,88.0
+S428,18,18,,,Anxiety disorder,101.0
+S429,20,12,,,Mood disorder,123.0
+S430,16,14,,,Trauma and stress related disorder,91.0
+S431,16,14,,,Trauma and stress related disorder,99.0
+S432,16,14,,,Trauma and stress related disorder,88.0
+S433,18,18,,,Anxiety disorder,142.0
+S434,18,18,,,Anxiety disorder,116.0
+S435,20,12,,,Mood disorder,115.0
+S436,16,14,,,Trauma and stress related disorder,110.0
+S437,16,14,,,Trauma and stress related disorder,107.0
+S438,20,12,,,Mood disorder,119.0
+S439,15,8,,,Schizophrenia,76.0
+S440,20,12,,,Mood disorder,99.0
+S441,15,8,,,Schizophrenia,90.0
+S442,10,7,,,Addictive disorder,90.0
+S443,15,8,,,Schizophrenia,99.0
+S444,16,14,,,Trauma and stress related disorder,107.0
+S445,20,12,,,Mood disorder,90.0
+S446,20,12,,,Mood disorder,97.0
+S447,15,8,,,Schizophrenia,85.0
+S448,20,12,,,Mood disorder,122.0
+S449,18,18,,,Anxiety disorder,77.0
+S450,20,12,,,Mood disorder,103.0
+S451,20,12,,,Mood disorder,84.0
+S452,16,14,,,Trauma and stress related disorder,119.0
+S453,14,15,,,Obsessive compulsive disorder,105.0
+S454,15,8,,,Schizophrenia,84.0
+S455,10,7,,,Addictive disorder,96.0
+S456,15,8,,,Schizophrenia,87.0
+S457,20,12,,,Mood disorder,109.0
+S458,20,12,,,Mood disorder,110.0
+S459,20,12,,,Mood disorder,117.0
+S460,10,7,,,Addictive disorder,93.0
+S461,20,12,,,Mood disorder,100.0
+S462,20,12,,,Mood disorder,111.0
+S463,14,15,,,Obsessive compulsive disorder,105.0
+S464,15,8,,,Schizophrenia,116.0
+S465,15,8,,,Schizophrenia,62.0
+S466,15,8,,,Schizophrenia,65.0
+S467,18,18,,,Anxiety disorder,96.0
+S468,15,8,,,Schizophrenia,70.0
+S469,10,7,,,Addictive disorder,100.0
+S470,15,8,,,Schizophrenia,56.0
+S471,15,8,,,Schizophrenia,60.0
+S472,20,12,,,Mood disorder,113.0
+S473,20,12,,,Mood disorder,100.0
+S474,20,12,,,Mood disorder,100.0
+S475,15,8,,,Schizophrenia,102.0
+S476,15,8,,,Schizophrenia,71.0
+S477,16,14,,,Trauma and stress related disorder,61.0
+S478,15,8,,,Schizophrenia,82.0
+S479,15,8,,,Schizophrenia,78.0
+S480,18,18,,,Anxiety disorder,77.0
+S481,15,8,,,Schizophrenia,72.0
+S482,20,12,,,Mood disorder,131.0
+S483,16,14,,,Trauma and stress related disorder,93.0
+S484,20,12,,,Mood disorder,114.0
+S485,20,12,,,Mood disorder,100.0
+S486,16,14,,,Trauma and stress related disorder,89.0
+S487,14,15,,,Obsessive compulsive disorder,85.0
+S488,20,12,,,Mood disorder,93.0
+S489,16,14,,,Trauma and stress related disorder,90.0
+S490,15,8,,,Schizophrenia,60.0
+S491,15,8,,,Schizophrenia,107.0
+S492,15,8,,,Schizophrenia,55.0
+S493,10,7,,,Addictive disorder,91.0
+S494,16,14,,,Trauma and stress related disorder,87.0
+S495,20,12,,,Mood disorder,96.0
+S496,18,18,,,Anxiety disorder,81.0
+S497,15,8,,,Schizophrenia,66.0
+S498,15,8,,,Schizophrenia,67.0
+S499,20,12,,,Mood disorder,108.0
+S500,14,15,,,Obsessive compulsive disorder,107.0
+S501,18,18,,,Anxiety disorder,102.0
+S502,20,12,,,Mood disorder,83.0
+S503,20,12,,,Mood disorder,100.0
+S504,18,18,,,Anxiety disorder,80.0
+S505,18,18,,,Anxiety disorder,93.0
+S506,15,8,,,Schizophrenia,106.0
+S507,20,12,,,Mood disorder,100.0
+S508,16,14,,,Trauma and stress related disorder,106.0
+S509,20,12,,,Mood disorder,61.0
+S510,15,8,,,Schizophrenia,64.0
+S511,16,14,,,Trauma and stress related disorder,107.0
+S512,10,7,,,Addictive disorder,92.0
+S513,16,14,,,Trauma and stress related disorder,94.0
+S514,20,12,,,Mood disorder,110.0
+S515,18,18,,,Anxiety disorder,93.0
+S516,18,18,,,Anxiety disorder,99.0
+S517,15,8,,,Schizophrenia,109.0
+S518,16,14,,,Trauma and stress related disorder,84.0
+S519,20,12,,,Mood disorder,117.0
+S520,10,7,,,Addictive disorder,97.0
+S521,14,15,,,Obsessive compulsive disorder,110.0
+S522,20,12,,,Mood disorder,65.0
+S523,20,12,,,Mood disorder,91.0
+S524,16,14,,,Trauma and stress related disorder,97.0
+S525,16,14,,,Trauma and stress related disorder,122.0
+S526,20,12,,,Mood disorder,91.0
+S527,20,12,,,Mood disorder,74.0
+S528,18,18,,,Anxiety disorder,109.0
+S529,18,18,,,Anxiety disorder,100.0
+S530,20,12,,,Mood disorder,112.0
+S531,20,12,,,Mood disorder,109.0
+S532,20,12,,,Mood disorder,103.0
+S533,16,14,,,Trauma and stress related disorder,71.0
+S534,16,14,,,Trauma and stress related disorder,89.0
+S535,20,12,,,Mood disorder,81.0
+S536,20,12,,,Mood disorder,129.0
+S537,20,12,,,Mood disorder,110.0
+S538,16,14,,,Trauma and stress related disorder,72.0
+S539,20,12,,,Mood disorder,99.0
+S540,20,12,,,Mood disorder,99.0
+S541,18,18,,,Anxiety disorder,96.0
+S542,15,8,,,Schizophrenia,118.0
+S543,20,12,,,Mood disorder,122.0
+S544,20,12,,,Mood disorder,105.0
+S545,20,12,,,Mood disorder,100.0
+S546,16,14,,,Trauma and stress related disorder,97.0
+S547,20,12,,,Mood disorder,73.0
+S548,20,12,,,Mood disorder,116.0
+S549,15,8,,,Schizophrenia,102.0
+S550,18,18,,,Anxiety disorder,86.0
+S551,15,8,,,Schizophrenia,112.0
+S552,20,12,,,Mood disorder,90.0
+S553,20,12,,,Mood disorder,108.0
+S554,15,8,,,Schizophrenia,108.0
+S555,18,18,,,Anxiety disorder,117.0
+S556,18,18,,,Anxiety disorder,107.0
+S557,20,12,,,Mood disorder,92.0
+S558,18,18,,,Anxiety disorder,108.0
+S559,18,18,,,Anxiety disorder,94.0
+S560,10,7,,,Addictive disorder,123.0
+S561,20,12,,,Mood disorder,93.0
+S562,15,8,,,Schizophrenia,99.0
+S563,20,12,,,Mood disorder,117.0
+S564,16,14,,,Trauma and stress related disorder,114.0
+S565,20,12,,,Mood disorder,103.0
+S566,15,8,,,Schizophrenia,88.0
+S567,20,12,,,Mood disorder,104.0
+S568,14,15,,,Obsessive compulsive disorder,119.0
+S569,20,12,,,Mood disorder,119.0
+S570,15,8,,,Schizophrenia,81.0
+S571,18,18,,,Anxiety disorder,86.0
+S572,15,8,,,Schizophrenia,66.0
+S573,20,12,,,Mood disorder,128.0
+S574,18,18,,,Anxiety disorder,90.0
+S575,20,12,,,Mood disorder,89.0
+S576,20,12,,,Mood disorder,133.0
+S577,18,18,,,Anxiety disorder,98.0
+S578,10,7,,,Addictive disorder,127.0
+S579,15,8,,,Schizophrenia,59.0
+S580,16,14,,,Trauma and stress related disorder,84.0
+S581,20,12,,,Mood disorder,77.0
+S582,14,15,,,Obsessive compulsive disorder,89.0
+S583,20,12,,,Mood disorder,81.0
+S584,20,12,,,Mood disorder,99.0
+S585,14,15,,,Obsessive compulsive disorder,88.0
+S586,16,14,,,Trauma and stress related disorder,94.0
+S587,20,12,,,Mood disorder,107.0
+S588,20,12,,,Mood disorder,93.0
+S589,20,12,,,Mood disorder,95.0
+S590,15,8,,,Schizophrenia,99.0
+S591,20,12,,,Mood disorder,110.0
+S592,18,18,,,Anxiety disorder,76.0
+S593,20,12,,,Mood disorder,127.0
+S594,18,18,,,Anxiety disorder,112.0
+S595,18,18,,,Anxiety disorder,97.0
+S596,16,14,,,Trauma and stress related disorder,101.0
+S597,20,12,,,Mood disorder,93.0
+S598,18,18,,,Anxiety disorder,107.0
+S599,14,15,,,Obsessive compulsive disorder,87.0
+S600,14,15,,,Obsessive compulsive disorder,138.0
+S601,20,12,,,Mood disorder,134.0
+S602,10,7,,,Addictive disorder,120.0
+S603,15,8,,,Schizophrenia,80.0
+S604,18,18,,,Anxiety disorder,98.0
+S605,15,8,,,Schizophrenia,93.0
+S606,20,12,,,Mood disorder,119.0
+S607,20,12,,,Mood disorder,99.0
+S608,18,18,,,Anxiety disorder,107.0
+S609,14,15,,,Obsessive compulsive disorder,121.0
+S610,15,8,,,Schizophrenia,79.0
+S611,15,8,,,Schizophrenia,75.0
+S612,15,8,,,Schizophrenia,114.0
+S613,20,12,,,Mood disorder,99.0
+S614,20,12,,,Mood disorder,111.0
+S615,18,18,,,Anxiety disorder,95.0
+S616,20,12,,,Mood disorder,88.0
+S617,20,12,,,Mood disorder,93.0
+S618,20,12,,,Mood disorder,107.0
+S619,20,12,,,Mood disorder,83.0
+S620,16,14,,,Trauma and stress related disorder,99.0
+S621,20,12,,,Mood disorder,101.0
+S622,18,18,,,Anxiety disorder,82.0
+S623,18,18,,,Anxiety disorder,105.0
+S624,10,7,,,Addictive disorder,110.0
+S625,15,8,,,Schizophrenia,84.0
+S626,16,14,,,Trauma and stress related disorder,104.0
+S627,18,18,,,Anxiety disorder,110.0
+S628,20,12,,,Mood disorder,93.0
+S629,15,8,,,Schizophrenia,87.0
+S630,18,18,,,Anxiety disorder,114.0
+S631,15,8,,,Schizophrenia,91.0
+S632,15,8,,,Schizophrenia,75.0
+S633,18,18,,,Anxiety disorder,84.0
+S634,15,8,,,Schizophrenia,86.0
+S635,20,12,,,Mood disorder,122.0
+S636,15,8,,,Schizophrenia,108.0
+S637,15,8,,,Schizophrenia,79.0
+S638,16,14,,,Trauma and stress related disorder,53.0
+S639,18,18,,,Anxiety disorder,105.0
+S640,18,18,,,Anxiety disorder,77.0
+S641,18,18,,,Anxiety disorder,83.0
+S642,20,12,,,Mood disorder,107.0
+S643,20,12,,,Mood disorder,97.0
+S644,15,8,,,Schizophrenia,73.0
+S645,16,14,,,Trauma and stress related disorder,98.0
+S646,10,7,,,Addictive disorder,104.0
+S647,15,8,,,Schizophrenia,98.0
+S648,10,7,,,Addictive disorder,122.0
+S649,18,18,,,Anxiety disorder,80.0
+S650,16,14,,,Trauma and stress related disorder,67.0
+S651,20,12,,,Mood disorder,80.0
+S652,16,14,,,Trauma and stress related disorder,116.0
+S653,20,12,,,Mood disorder,108.0
+S654,20,12,,,Mood disorder,63.0
+S655,20,12,,,Mood disorder,93.0
+S656,16,14,,,Trauma and stress related disorder,93.0
+S657,16,14,,,Trauma and stress related disorder,106.0
+S658,18,18,,,Anxiety disorder,77.0
+S659,16,14,,,Trauma and stress related disorder,115.0
+S660,15,8,,,Schizophrenia,79.0
+S661,16,14,,,Trauma and stress related disorder,91.0
+S662,20,12,,,Mood disorder,103.0
+S663,15,8,,,Schizophrenia,82.0
+S664,20,12,,,Mood disorder,76.0
+S665,20,12,,,Mood disorder,93.0
+S666,16,14,,,Trauma and stress related disorder,134.0
+S667,20,12,,,Mood disorder,107.0
+S668,18,18,,,Anxiety disorder,103.0
+S669,18,18,,,Anxiety disorder,84.0
+S670,10,7,,,Addictive disorder,83.0
+S671,20,12,,,Mood disorder,85.0
+S672,10,7,,,Addictive disorder,101.0
+S673,18,18,,,Anxiety disorder,59.0
+S674,20,12,,,Mood disorder,114.0
+S675,20,12,,,Mood disorder,98.0
+S676,14,15,,,Obsessive compulsive disorder,101.0
+S677,16,14,,,Trauma and stress related disorder,93.0
+S678,20,12,,,Mood disorder,61.0
+S679,16,14,,,Trauma and stress related disorder,100.0
+S680,10,7,,,Addictive disorder,100.0
+S681,10,7,,,Addictive disorder,102.0
+S682,10,7,,,Addictive disorder,85.0
+S683,14,15,,,Obsessive compulsive disorder,102.0
+S684,16,14,,,Trauma and stress related disorder,99.0
+S685,15,8,,,Schizophrenia,92.0
+S686,18,18,,,Anxiety disorder,98.0
+S687,18,18,,,Anxiety disorder,90.0
+S688,16,14,,,Trauma and stress related disorder,78.0
+S689,18,18,,,Anxiety disorder,77.0
+S690,15,8,,,Schizophrenia,114.0
+S691,15,8,,,Schizophrenia,50.0
+S692,16,14,,,Trauma and stress related disorder,96.0
+S693,20,12,,,Mood disorder,105.0
+S694,18,18,,,Anxiety disorder,103.0
+S695,16,14,,,Trauma and stress related disorder,73.0
+S696,16,14,,,Trauma and stress related disorder,60.0
+S697,20,12,,,Mood disorder,91.0
+S698,18,18,,,Anxiety disorder,81.0
+S699,20,12,,,Mood disorder,99.0
+S700,10,7,,,Addictive disorder,125.0
+S701,18,18,,,Anxiety disorder,105.0
+S702,18,18,,,Anxiety disorder,115.0
+S703,20,12,,,Mood disorder,88.0
+S704,10,7,,,Addictive disorder,131.0
+S705,16,14,,,Trauma and stress related disorder,99.0
+S706,10,7,,,Addictive disorder,96.0
+S707,20,12,,,Mood disorder,100.0
+S708,18,18,,,Anxiety disorder,102.0
+S709,15,8,,,Schizophrenia,80.0
+S710,20,12,,,Mood disorder,82.0
+S711,20,12,,,Mood disorder,102.0
+S712,18,18,,,Anxiety disorder,109.0
+S713,16,14,,,Trauma and stress related disorder,85.0
+S714,15,8,,,Schizophrenia,102.0
+S715,18,18,,,Anxiety disorder,109.0
+S716,16,14,,,Trauma and stress related disorder,93.0
+S717,16,14,,,Trauma and stress related disorder,79.0
+S718,18,18,,,Anxiety disorder,85.0
+S719,18,18,,,Anxiety disorder,79.0
+S720,18,18,,,Anxiety disorder,107.0
+S721,16,14,,,Trauma and stress related disorder,93.0
+S722,18,18,,,Anxiety disorder,117.0
+S723,16,14,,,Trauma and stress related disorder,95.0
+S724,16,14,,,Trauma and stress related disorder,96.0
+S725,18,18,,,Anxiety disorder,85.0
+S726,16,14,,,Trauma and stress related disorder,99.0
+S727,18,18,,,Anxiety disorder,88.0
+S728,16,14,,,Trauma and stress related disorder,119.0
+S729,18,18,,,Anxiety disorder,89.0
+S730,20,12,,,Mood disorder,93.0
+S731,18,18,,,Anxiety disorder,94.0
+S732,20,12,,,Mood disorder,90.0
+S733,15,8,,,Schizophrenia,96.0
+S734,20,12,,,Mood disorder,83.0
+S735,20,12,,,Mood disorder,113.0
+S736,15,8,,,Schizophrenia,80.0
+S737,15,8,,,Schizophrenia,102.0
+S738,20,12,,,Mood disorder,121.0
+S739,18,18,,,Anxiety disorder,101.0
+S740,20,12,,,Mood disorder,83.0
+S741,18,18,,,Anxiety disorder,128.0
+S742,18,18,,,Anxiety disorder,98.0
+S743,15,8,,,Schizophrenia,105.0
+S744,20,12,,,Mood disorder,86.0
+S745,18,18,,,Anxiety disorder,65.0
+S746,20,12,,,Mood disorder,100.0
+S747,15,8,,,Schizophrenia,83.0
+S748,14,15,,,Obsessive compulsive disorder,114.0
+S749,16,14,,,Trauma and stress related disorder,86.0
+S750,14,15,,,Obsessive compulsive disorder,129.0
+S751,16,14,,,Trauma and stress related disorder,89.0
+S752,20,12,,,Mood disorder,112.0
+S753,20,12,,,Mood disorder,99.0
+S754,20,12,,,Mood disorder,71.0
+S755,20,12,,,Mood disorder,96.0
+S756,15,8,,,Schizophrenia,80.0
+S757,20,12,,,Mood disorder,80.0
+S758,14,15,,,Obsessive compulsive disorder,105.0
+S759,20,12,,,Mood disorder,114.0
+S760,18,18,,,Anxiety disorder,111.0
+S761,20,12,,,Mood disorder,96.0
+S762,15,8,,,Schizophrenia,66.0
+S763,20,12,,,Mood disorder,93.0
+S764,20,12,,,Mood disorder,92.0
+S765,20,12,,,Mood disorder,106.0
+S766,15,8,,,Schizophrenia,78.0
+S767,20,12,,,Mood disorder,79.0
+S768,20,12,,,Mood disorder,114.0
+S769,15,8,,,Schizophrenia,108.0
+S770,16,14,,,Trauma and stress related disorder,105.0
+S771,20,12,,,Mood disorder,83.0
+S772,15,8,,,Schizophrenia,80.0
+S773,18,18,,,Anxiety disorder,108.0
+S774,20,12,,,Mood disorder,87.0
+S775,20,12,,,Mood disorder,117.0
+S776,10,7,,,Addictive disorder,125.0
+S777,20,12,,,Mood disorder,94.0
+S778,20,12,,,Mood disorder,93.0
+S779,20,12,,,Mood disorder,71.0
+S780,16,14,,,Trauma and stress related disorder,99.0
+S781,20,12,,,Mood disorder,95.0
+S782,20,12,,,Mood disorder,112.0
+S783,20,12,,,Mood disorder,120.0
+S784,18,18,,,Anxiety disorder,95.0
+S785,18,18,,,Anxiety disorder,122.0
+S786,20,12,,,Mood disorder,109.0
+S787,15,8,,,Schizophrenia,65.0
+S788,20,12,,,Mood disorder,100.0
+S789,16,14,,,Trauma and stress related disorder,106.0
+S790,16,14,,,Trauma and stress related disorder,114.0
+S791,15,8,,,Schizophrenia,98.0
+S792,16,14,,,Trauma and stress related disorder,93.0
+S793,18,18,,,Anxiety disorder,125.0
+S794,18,18,,,Anxiety disorder,49.0
+S795,18,18,,,Anxiety disorder,114.0
+S796,20,12,,,Mood disorder,107.0
+S797,20,12,,,Mood disorder,121.0
+S798,15,8,,,Schizophrenia,116.0
+S799,15,8,,,Schizophrenia,114.0
+S800,16,14,,,Trauma and stress related disorder,105.0
+S801,20,12,,,Mood disorder,83.0
+S802,10,7,,,Addictive disorder,78.0
+S803,15,8,,,Schizophrenia,131.0
+S804,14,15,,,Obsessive compulsive disorder,110.0
+S805,15,8,,,Schizophrenia,74.0
+S806,18,18,,,Anxiety disorder,128.0
+S807,20,12,,,Mood disorder,105.0
+S808,20,12,,,Mood disorder,102.0
+S809,18,18,,,Anxiety disorder,93.0
+S810,18,18,,,Anxiety disorder,95.0
+S811,15,8,,,Schizophrenia,73.0
+S812,20,12,,,Mood disorder,84.0
+S813,16,14,,,Trauma and stress related disorder,116.0
+S814,20,12,,,Mood disorder,106.0
+S815,18,18,,,Anxiety disorder,85.0
+S816,16,14,,,Trauma and stress related disorder,90.0
+S817,18,18,,,Anxiety disorder,126.0
+S818,16,14,,,Trauma and stress related disorder,118.0
+S819,10,7,,,Addictive disorder,123.0
+S820,16,14,,,Trauma and stress related disorder,122.0
+S821,15,8,,,Schizophrenia,104.0
+S822,20,12,,,Mood disorder,123.0
+S823,15,8,,,Schizophrenia,100.0
+S824,10,7,,,Addictive disorder,112.0
+S825,10,7,,,Addictive disorder,95.0
+S826,18,18,,,Anxiety disorder,119.0
+S827,20,12,,,Mood disorder,119.0
+S828,20,12,,,Mood disorder,81.0
+S829,15,8,,,Schizophrenia,95.0
+S830,20,12,,,Mood disorder,82.0
+S831,20,12,,,Mood disorder,62.0
+S832,14,15,,,Obsessive compulsive disorder,90.0
+S833,20,12,,,Mood disorder,96.0
+S834,10,7,,,Addictive disorder,102.0
+S835,16,14,,,Trauma and stress related disorder,110.0
+S836,20,12,,,Mood disorder,131.0
+S837,15,8,,,Schizophrenia,109.0
+S838,10,7,,,Addictive disorder,121.0
+S839,16,14,,,Trauma and stress related disorder,108.0
+S840,16,14,,,Trauma and stress related disorder,97.0
+S841,20,12,,,Mood disorder,107.0
+S842,18,18,,,Anxiety disorder,101.0
+S843,18,18,,,Anxiety disorder,99.0
+S844,16,14,,,Trauma and stress related disorder,94.0
+S845,20,12,,,Mood disorder,82.0
+S846,15,8,,,Schizophrenia,114.0
+S847,20,12,,,Mood disorder,80.0
+S848,16,14,,,Trauma and stress related disorder,84.0
+S849,16,14,,,Trauma and stress related disorder,118.0
+S850,20,12,,,Mood disorder,104.0
+S851,20,12,,,Mood disorder,97.0
+S852,20,12,,,Mood disorder,65.0
+S853,18,18,,,Anxiety disorder,90.0
+S854,16,14,,,Trauma and stress related disorder,92.0
+S855,20,12,,,Mood disorder,88.0
+S856,20,12,,,Mood disorder,118.0
+S857,15,8,,,Schizophrenia,107.0
+S858,20,12,,,Mood disorder,107.0
+S859,15,8,,,Schizophrenia,64.0
+S860,18,18,,,Anxiety disorder,119.0
+S861,10,7,,,Addictive disorder,111.0
+S862,20,12,,,Mood disorder,102.0
+S863,20,12,,,Mood disorder,119.0
+S864,20,12,,,Mood disorder,97.0
+S865,15,8,,,Schizophrenia,110.0
+S866,16,14,,,Trauma and stress related disorder,105.0
+S867,10,7,,,Addictive disorder,94.0
+S868,20,12,,,Mood disorder,112.0
+S869,20,12,,,Mood disorder,111.0
+S870,16,14,,,Trauma and stress related disorder,83.0
+S871,18,18,,,Anxiety disorder,72.0
+S872,15,8,,,Schizophrenia,85.0
+S873,20,12,,,Mood disorder,99.0
+S874,15,8,,,Schizophrenia,82.0
+S875,18,18,,,Anxiety disorder,126.0
+S876,10,7,,,Addictive disorder,68.0
+S877,15,8,,,Schizophrenia,102.0
+S878,20,12,,,Mood disorder,119.0
+S879,15,8,,,Schizophrenia,115.0
+S880,20,12,,,Mood disorder,107.0
+S881,14,15,,,Obsessive compulsive disorder,123.0
+S882,20,12,,,Mood disorder,60.0
+S883,20,12,,,Mood disorder,100.0
+S884,20,12,,,Mood disorder,105.0
+S885,18,18,,,Anxiety disorder,117.0
+S886,16,14,,,Trauma and stress related disorder,79.0
+S887,15,8,,,Schizophrenia,81.0
+S888,15,8,,,Schizophrenia,105.0
+S889,16,14,,,Trauma and stress related disorder,63.0
+S890,20,12,,,Mood disorder,97.0
+S891,20,12,,,Mood disorder,127.0
+S892,20,12,,,Mood disorder,101.0
+S893,20,12,,,Mood disorder,109.0
+S894,10,7,,,Addictive disorder,106.0
+S895,14,15,,,Obsessive compulsive disorder,111.0
+S896,20,12,,,Mood disorder,106.0
+S897,20,12,,,Mood disorder,92.0
+S898,14,15,,,Obsessive compulsive disorder,91.0
+S899,20,12,,,Mood disorder,98.0
+S900,20,12,,,Mood disorder,99.0
+S901,20,12,,,Mood disorder,96.0
+S902,18,18,,,Anxiety disorder,81.0
+S903,20,12,,,Mood disorder,117.0
+S904,15,8,,,Schizophrenia,66.0
+S905,10,7,,,Addictive disorder,104.0
+S906,18,18,,,Anxiety disorder,98.0
+S907,10,7,,,Addictive disorder,75.0
+S908,15,8,,,Schizophrenia,80.0
+S909,10,7,,,Addictive disorder,76.0
+S910,18,18,,,Anxiety disorder,82.0
+S911,15,8,,,Schizophrenia,60.0
+S912,20,12,,,Mood disorder,80.0
+S913,16,14,,,Trauma and stress related disorder,107.0
+S914,15,8,,,Schizophrenia,99.0
+S915,20,12,,,Mood disorder,102.0
+S916,15,8,,,Schizophrenia,84.0
+S917,16,14,,,Trauma and stress related disorder,120.0
+S918,2,2,,,Healthy control,141.0
+S919,2,2,,,Healthy control,118.0
+S920,2,2,,,Healthy control,114.0
+S921,2,2,,,Healthy control,113.0
+S922,2,2,,,Healthy control,118.0
+S923,2,2,,,Healthy control,122.0
+S924,2,2,,,Healthy control,124.0
+S925,2,2,,,Healthy control,112.0
+S926,2,2,,,Healthy control,107.0
+S927,2,2,,,Healthy control,113.0
+S928,2,2,,,Healthy control,137.0
+S929,2,2,,,Healthy control,137.0
+S930,2,2,,,Healthy control,120.0
+S931,2,2,,,Healthy control,131.0
+S932,2,2,,,Healthy control,123.0
+S933,2,2,,,Healthy control,116.0
+S934,2,2,,,Healthy control,131.0
+S935,2,2,,,Healthy control,122.0
+S936,2,2,,,Healthy control,123.0
+S937,2,2,,,Healthy control,127.0
+S938,2,2,,,Healthy control,130.0
+S939,2,2,,,Healthy control,116.0
+S940,2,2,,,Healthy control,116.0
+S941,2,2,,,Healthy control,118.0
+S942,2,2,,,Healthy control,113.0
+S943,2,2,,,Healthy control,107.0
+S944,2,2,,,Healthy control,105.0
